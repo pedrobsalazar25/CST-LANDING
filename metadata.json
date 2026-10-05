@@ -1,0 +1,8 @@
+{
+  "name": "CST landing ",
+  "description": "Clean Scrub Tech | Environmental Technology \u0026 Industrial Solutions. Advanced chemistry, industrial engineering, and commercial environmental implementation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
